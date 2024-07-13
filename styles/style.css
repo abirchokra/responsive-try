@@ -185,7 +185,9 @@ hr{
 @media screen and (min-width:576px) and (max-width:992px) {
     .main-side{
         flex-direction: column;
-      
     }
-    
+    .two-title{
+        width: 450px;
+        height: 70px;
+    }
 }
